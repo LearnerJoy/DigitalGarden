@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microsoft/azure/azure/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/microsoft/azure/azure/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Topics
