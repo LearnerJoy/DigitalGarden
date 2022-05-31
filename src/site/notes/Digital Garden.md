@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":true,"dg-publish":true,"permalink":"/digital-garden/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Index
@@ -77,8 +77,3 @@
 			- [[GL-Resources|Resources]]
 			- [[Great Learning/GL-Regions|Regions]]
 			- [[GL-Availability Zones|Availability Zones]]
-
-# DataView
-```dataview
-Table dg-publish
-```
