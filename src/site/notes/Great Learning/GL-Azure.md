@@ -47,7 +47,7 @@ Available as:
 	- Governments tenants have complete Isolated environment to outside world.
 	- Service improvements and new feature updates will be slow.
 - **Deploy on-prem**
-	- Microsoft provides few cloud services that can be deployed in Onprem -- ==Identify cloud services that can be deployed in Onprem==
+	- Microsoft provides few cloud services that can be deployed in On-premises -- ==Identify cloud services that can be deployed in On-premises==
 
 ## Marketplace
 Marketplace is a store where you can see third-party services that are made available in Azure for use.
