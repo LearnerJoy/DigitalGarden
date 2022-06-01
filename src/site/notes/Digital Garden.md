@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/digital-garden/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-![[myfavicon.svg|50]]
 # Index
 - [[Urls|Urls]]
 - [[Microsoft/Microsoft|Microsoft]]  ^51b235
