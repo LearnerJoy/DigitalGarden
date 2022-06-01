@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/great-learning/gl-azure/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/great-learning/gl-azure/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
@@ -33,11 +33,11 @@ Azure services are available in countries with multiple regions for Disaster rec
 ## Regions
 One country can have multiple [[Great Learning/GL-Regions|Regions]].
 
-```mermaid
-flowchart TD;
-Country --> Region_1;
-Country --> Region_2;
-Country --> Region_3;
+```mermaid 
+graph TD
+    A[Country] --> B[Region_1]
+    A --> C[Region_2]
+    A -->D[Region_3]
 ```
 
 ## Types/Flavors
